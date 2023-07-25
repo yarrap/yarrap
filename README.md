@@ -12,10 +12,9 @@ Presently, I'm actively exploring co-op for spring’24 and internship for summe
 
 
 
+
 <!--
 **yarrap/yarrap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yarrap&show_icons=true&locale=en&layout=compact" alt="yarrap" /></p>
 
 Here are some ideas to get you started:
 
