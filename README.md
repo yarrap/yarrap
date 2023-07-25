@@ -1,4 +1,4 @@
-![logo](https://github.com/yarrap/yarrap/blob/main/Data%20science.jpg)
+
 
 ### About
 
@@ -17,6 +17,8 @@ Presently, I'm actively exploring co-op for spring’24 and internship for summe
 
 <!--
 **yarrap/yarrap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![logo](https://github.com/yarrap/yarrap/blob/main/Data%20science.jpg)
 
 Here are some ideas to get you started:
 
