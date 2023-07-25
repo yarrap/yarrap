@@ -1,4 +1,9 @@
-### Hi there 👋
+### About
+
+Hey, there! I am a master’s student currently majoring in Computer Science at University of Massachusetts, Amherst. I am passionate about Artificial Intelligence, particularly in the realms of Natural Language Processing (NLP), Machine Learning, and Deep Learning. I come equipped with 2 years of experience as a Senior Analyst at Tiger Analytics, where I collaborated with a CPG Client, applying Lasso, Bayesian Regression, and NLP techniques to drive impactful insights.
+
+Presently, I'm actively exploring co-op for spring’24 and internship for summer’24 roles across the United States that align with my interests and career goals. I would be delighted to connect and explore potential opportunities together!
+
 
 <!--
 **yarrap/yarrap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
