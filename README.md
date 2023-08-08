@@ -4,8 +4,6 @@
 
 Hey, there! I am a master’s student currently majoring in Computer Science at University of Massachusetts, Amherst. I am passionate about Artificial Intelligence, particularly in the realms of Natural Language Processing (NLP), Machine Learning, and Deep Learning. I come equipped with 2 years of experience as a Senior Analyst at Tiger Analytics, where I collaborated with a CPG Client, applying Lasso, Bayesian Regression, and NLP techniques to drive impactful insights.
 
-Presently, I'm actively exploring internship for summer’24 roles across the United States that align with my interests and career goals. I would be delighted to connect and explore potential opportunities together!
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
