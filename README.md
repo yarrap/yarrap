@@ -6,6 +6,9 @@ Hey, there! I am a master’s student currently majoring in Computer Science at 
 
 I come equipped with 2 years of experience as a Senior Analyst at Tiger Analytics, where I engaged across diverse domains, including e-commerce, omnichannel, retail, and prominently in CPG. During this tenure, I gained expertise in Python, PySpark, and Azure, putting into practice advanced statistical analysis, predictive modeling approaches like Lasso and Bayesian Regression, as well as various NLP techniques. My recent projects at UMass have focused on enhancing the robustness of Large Language Models in Out-of-Distribution settings, developing an automated model selection framework for tabular data, and building a real-time tag recommendation system for Stack Overflow.
 
+As a Data Science and Analytics intern at RAPP, I built a FastAPI user interface for time-series forecasting using Multivariate LSTM models. Additionally, I implemented BERTopic and Zero-Shot Topic Classification, extracting 13 coherent topics to improve topic assignment
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
