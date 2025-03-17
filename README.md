@@ -2,11 +2,11 @@
 
 ### About
 
-Hey, there! I am a master’s student currently majoring in Computer Science at the University of Massachusetts, Amherst. I am passionate about Artificial Intelligence, particularly in the realms of Natural Language Processing (NLP), Machine Learning, Deep Learning, and Information Retrieval.
+Hey, there! I am a master’s student currently majoring in Computer Science at the University of Massachusetts, Amherst. I have 2.5 years of experience in machine learning domain where I am passionate about Artificial Intelligence, particularly in the realms of Natural Language Processing (NLP), Machine Learning, Deep Learning, and Responsible AI.
 
 I come equipped with 2 years of experience as a Senior Analyst at Tiger Analytics, where I engaged across diverse domains, including e-commerce, omnichannel, retail, and prominently in CPG. During this tenure, I gained expertise in Python, PySpark, and Azure, putting into practice advanced statistical analysis, predictive modeling approaches like Lasso and Bayesian Regression, as well as various NLP techniques. My recent projects at UMass have focused on enhancing the robustness of Large Language Models in Out-of-Distribution settings, developing an automated model selection framework for tabular data, and building a real-time tag recommendation system for Stack Overflow.
 
-As a Data Science and Analytics intern at RAPP, I built a FastAPI user interface for time-series forecasting using Multivariate LSTM models. Additionally, I implemented BERTopic and Zero-Shot Topic Classification, extracting 13 coherent topics to improve topic assignment
+As a Data Science and Analytics intern at RAPP, I built a FastAPI user interface for time-series forecasting using Multivariate LSTM models. Additionally, I implemented BERTopic and Zero-Shot Topic Classification, extracting 13 coherent topics to improve topic assignment for 2 months. Currently, I am a graduate researcher working on persona generation with Meta and enhancing LLM robustness in OOD settings at BioNLP Lab.
 
 
 
