@@ -10,7 +10,7 @@ Currently, I'm actively seeking full-time roles starting immediately across the 
 
 
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 #### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-333?logo=python)
@@ -55,7 +55,7 @@ Currently, I'm actively seeking full-time roles starting immediately across the 
 
 
 
-### 📈 GitHub Stats
+### GitHub Stats
 ![Priya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yarrap&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yarrap&layout=compact&theme=radical)
